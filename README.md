@@ -1,2 +1,2 @@
-# wordpress-theme-web-portfolio
+# portfolio_wordpress-theme
 Wordpress Theme for Portfolio
